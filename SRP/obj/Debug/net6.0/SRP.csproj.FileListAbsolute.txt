@@ -1,0 +1,15 @@
+D:\Arquitectura\solid\SRP\bin\Debug\net6.0\SRP.exe
+D:\Arquitectura\solid\SRP\bin\Debug\net6.0\SRP.deps.json
+D:\Arquitectura\solid\SRP\bin\Debug\net6.0\SRP.runtimeconfig.json
+D:\Arquitectura\solid\SRP\bin\Debug\net6.0\SRP.dll
+D:\Arquitectura\solid\SRP\bin\Debug\net6.0\SRP.pdb
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.csproj.AssemblyReference.cache
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.AssemblyInfoInputs.cache
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.AssemblyInfo.cs
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.csproj.CoreCompileInputs.cache
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.dll
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\refint\SRP.dll
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.pdb
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\SRP.genruntimeconfig.cache
+D:\Arquitectura\solid\SRP\obj\Debug\net6.0\ref\SRP.dll

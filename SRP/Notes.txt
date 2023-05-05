@@ -1,0 +1,14 @@
+﻿
+
+The example consists of three classes: Robot, Movement, and Weapon. 
+The Robot class has the responsibility of providing an interface for users to move the robot and attack with it. 
+The Movement class is responsible for implementing the movement logic of the robot, and the Weapon class is responsible for implementing 
+the attack logic of the robot.
+
+To ensure that each class has a single responsibility, 
+the Robot class only provides methods for moving and attacking with the robot, 
+while the implementation details of these functionalities are delegated to the Movement and Weapon classes, respectively.
+
+By separating the responsibilities of each class, we can achieve better modularity, maintainability, 
+and testability of our code. In addition, if we need to modify or extend the behavior of any of these classes in the future, 
+we can do so without affecting the other classes or the overall functionality of the system.
